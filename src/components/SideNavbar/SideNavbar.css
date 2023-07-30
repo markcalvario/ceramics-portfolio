@@ -1,0 +1,11 @@
+.nav-links{
+    padding: 0;
+}
+.nav-links a {
+    color: black !important;
+    padding: 5px 5px ;
+}
+.nav-links a span{
+    font-size: 1.5rem;
+    padding: 500px 0px !important;
+}
